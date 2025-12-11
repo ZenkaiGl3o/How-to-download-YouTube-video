@@ -1,6 +1,6 @@
 # Renviox Video Downloader – how to download YouTube video (youtube video download, youtube downloader)
 
-[![Download Renviox Video Downloader](./assets/renviox-download-button.png)](https://renviox.com/article/renviox-video-downloader-download)
+[![Download Renviox Video Downloader](https://raw.githubusercontent.com/anu72451/How-to-download-YouTube-video/refs/heads/main/renviox-download-button.png)](https://renviox.com/article/renviox-video-downloader-download)
 
 Renviox Video Downloader is a **portable Windows program** that helps you save online videos and playlists for offline viewing.  
 If you are looking for **how to download YouTube video**, **youtube video download** or a simple **youtube downloader** for your PC or laptop, this app keeps everything on a single screen and works without installation.
