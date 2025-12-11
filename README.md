@@ -18,8 +18,6 @@ Click the button at the top of this page or use the link below:
 
 👉 **Download page:** [https://renviox.com](https://renviox.com/article/renviox-video-downloader-download)
 
-(Place your PNG button file at `./assets/renviox-download-button.png` so the button above renders correctly.)
-
 ---
 
 ## Features
